@@ -2,7 +2,7 @@
 # Install with: pip install -r requirements.txt
 
 # Deep Learning Framework
-tensorflow>=2.19.0
+tensorflow-cpu==2.20.0
 keras>=3.10.0
 
 # Data Processing
