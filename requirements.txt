@@ -1,0 +1,27 @@
+# Core dependencies for Lung Cancer Prediction System
+# Install with: pip install -r requirements.txt
+
+# Deep Learning Framework
+tensorflow>=2.19.0
+keras>=3.10.0
+
+# Data Processing
+numpy>=2.1.0
+pandas>=2.3.0
+
+# Visualization
+matplotlib>=3.10.0
+seaborn>=0.13.0
+
+# Machine Learning
+scikit-learn>=1.7.0
+
+# Streamlit Web App
+streamlit>=1.50.0
+
+# Image Processing
+Pillow>=11.3.0
+
+# Note: Some packages may have additional dependencies that will be installed automatically
+# If you encounter issues, you may need to install specific versions based on your Python version
+
